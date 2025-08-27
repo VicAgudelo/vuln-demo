@@ -1,0 +1,14 @@
+{
+  "name": "dependabot-vuln-test",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Test repo to verify Dependabot security alerts on a known vulnerable dependency.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}

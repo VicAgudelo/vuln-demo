@@ -8,6 +8,7 @@
     "minimist": "1.2.3",
     "ansi-regex": "5.0.0",
     "hoek": "4.2.0",
+    "glob-parent": "5.1.1"
      },
   "scripts": {
     "audit": "npm audit --production"

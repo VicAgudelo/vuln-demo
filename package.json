@@ -17,8 +17,7 @@
     "jsonwebtoken": "8.5.1",
     "http-proxy": "1.18.0",
     "immer": "8.0.1",
-    "js-yaml": "3.13.1",
-    "xmldom": "0.6.0",
+    "js-yaml": "3.13.1"
      },
   "scripts": {
     "audit": "npm audit --production"

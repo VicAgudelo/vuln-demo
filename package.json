@@ -6,7 +6,8 @@
   "dependencies": {
     "lodash": "4.17.21",
     "minimist": "1.2.3",
-    "ansi-regex": "5.0.0"
+    "ansi-regex": "5.0.0",
+    "hoek": "4.2.0",
      },
   "scripts": {
     "audit": "npm audit --production"

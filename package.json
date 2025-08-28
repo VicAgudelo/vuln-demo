@@ -18,7 +18,8 @@
     "http-proxy": "1.18.0",
     "immer": "8.0.1",
     "js-yaml": "3.13.1",
-    "marked": "0.3.19"
+    "marked": "0.3.19",
+    "elliptic": "6.5.3"
      },
   "scripts": {
     "audit": "npm audit --production"

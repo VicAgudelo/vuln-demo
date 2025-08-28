@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "lodash": "4.17.20",
+    "axios": "0.21.0",
     "minimatch": "3.0.4",
     "marked": "0.3.6"
   }
